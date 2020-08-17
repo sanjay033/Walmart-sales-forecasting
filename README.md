@@ -2,7 +2,7 @@
 
 This project explores different ways to forecast unit sales of products with the objective of zeroing in on the model with the least error. A special focus is given on ensemble models during the study.
 
-The dataset used for the study is [https://www.kaggle.com/c/m5-forecasting-accuracy/data](M5 Forecasting data)
+The dataset used for the study is https://www.kaggle.com/c/m5-forecasting-accuracy/data
 
 ## Dataset
 
